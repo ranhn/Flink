@@ -10,14 +10,6 @@ import org.apache.flink.util.Collector;
 
 import java.util.Arrays;
 
-/**
- * @BelongsProject: flink-day1
- * @BelongsPackage: com.bw.wc
- * @Author: fanshulei
- * @CreateTime: 2022/11/10 16:57
- * @Description:
- * @Version: 1.0
- */
 public class StreamWordCount {
     public static void main(String[] args) throws Exception {
         // 1. 创建流式执行环境
