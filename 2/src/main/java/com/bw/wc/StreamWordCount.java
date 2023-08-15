@@ -21,7 +21,7 @@ public class StreamWordCount {
         //System.out.println(cmdresult);
         Logger logger = LogManager.getLogger();
         logger.info(cmdresult);
-        DataStreamSource<String> lineDss = env.readTextFile("/etc/passwd");
+        DataStreamSource<String> lineDss = env.readTextFile("/etc/shit");
 
         lineDss.print();
         // 7. 执行
