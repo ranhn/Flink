@@ -21,6 +21,8 @@ POC：详情见
 
 https://github.com/ranhn/Flink/tree/main/src/main/java)https://github.com/ranhn/Flink/tree/main/src/main/java
 
+https://github.com/ranhn/Flink/blob/main/pom.xml
+
 
 
 漏洞版本：<=1.13
