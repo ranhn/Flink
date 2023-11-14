@@ -16,7 +16,7 @@ FLINK默认部署无授权，在1.9版本出过漏洞。当前业务是1.13版�
 
 ![image](https://github.com/ranhn/Apache-Flink/assets/107679328/e539589a-a938-4897-99d3-85f84475c17e)
 
-POC:
+POC:详情见https://github.com/ranhn/Flink
 
 
 漏洞版本：<=1.13
