@@ -25,7 +25,7 @@ https://github.com/ranhn/Flink/blob/main/pom.xml
 
 
 
-漏洞版本：<=1.13
+漏洞版本：<=1.13.2
 
 修复建议：
 1、升级到最新版本。
