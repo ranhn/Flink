@@ -28,5 +28,5 @@ Vulnerable version：<=1.13.2
 
 Repair recommendations:
 
-1. Upgrade to the latest version。
+1. Upgrade to the latest version.
 
